@@ -1,1 +1,2 @@
-# finalDAProject2023-Stocks
+Hello, welcome to my Data Analysis Stock Project.
+

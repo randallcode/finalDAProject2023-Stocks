@@ -8,6 +8,7 @@ The two data sets I used were sourced from Kaggle.com and are from pre-2020.
 2. **Cleaned the data and performed a pandas merge:** I cleaned the data and then performed a pandas merge with the two datasets. Additionally, I calculated new values based on the merged dataset.
 3. **Made three visualizations:** I created three visualizations to display the data using matplotlib and seaborn.
 4. **Utilized a virtual environment:** I set up a virtual environment to manage dependencies.
+5. **Annotated the code:** I added comments to every coding cell, along with making sure every cell was properly formatted.
 
 ## How to review the project
 1. **Fork the repository:** Click the "Fork" button on the [repository page](https://github.com/randallcode/finalDAProject2023-Stocks).
